@@ -21,4 +21,6 @@ public class Main {
 
 
 
+
+
 // This code defines a Main class with a main method that initializes a string and calls the countVowels function to count the number of vowels in the string. The countVowels function iterates through each character in the string and checks if it is a vowel (both uppercase and lowercase). If it is a vowel, it increments the count variable. Finally, it returns the total count of vowels found in the string.
