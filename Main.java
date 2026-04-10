@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        String str = "A quick brown fox jumps over the lazy dog";
+        String str = "A quick brown fox jumps over the lazy dog and it stares at it";
         int count = countVowels(str);
         System.out.println("Number of vowels in the string: " + count);
     }
