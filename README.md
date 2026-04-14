@@ -1,6 +1,6 @@
 _first java project_
 ---
-nice
+_nice_
 ---
 lets build some systems
 ---
