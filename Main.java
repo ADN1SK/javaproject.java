@@ -1,5 +1,4 @@
 // funtion that takes in a string and returns the number of vowels in the string
-
 public class Main {
     public static void main(String[] args) {
         String str = "A quick brown fox jumps over the lazy dog and it stares at it";
